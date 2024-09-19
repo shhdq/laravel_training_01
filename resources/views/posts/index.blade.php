@@ -24,5 +24,7 @@
 
     <p>hello</p>
 
+    <p>test</p>
+
     {{ $posts->links() }}
 @endsection
