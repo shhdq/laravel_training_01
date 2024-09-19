@@ -22,5 +22,7 @@
                 @method('DELETE')
     @endforeach
 
+    <p>hello</p>
+
     {{ $posts->links() }}
 @endsection
